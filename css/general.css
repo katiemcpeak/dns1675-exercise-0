@@ -1,0 +1,33 @@
+html {
+    font-family: Helvetica, Arial sans-serif;
+}
+
+h1 {
+    font-family: Helvetica, Arial sans-serif;
+    font-size: 2rem;
+    color: maroon;
+}
+
+h2 {
+    font-family: Helvetica, Arial sans-serif;
+    font-size: 2rem;
+    color: maroon;
+}
+
+blockquote {
+    font-family: Georgia, "Times New Roman", serif;
+}
+
+h1 + p {
+    font-size: 2rem;
+    line-height: 1.75rem;
+    font-family: Georgia, "Times New Roman", serif; 
+}    
+
+img {
+    width: 100%;
+    display: block;
+    align-content: center;
+    border: 8rem;
+}
+
