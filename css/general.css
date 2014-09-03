@@ -31,3 +31,34 @@ img {
     border: 8rem;
 }
 
+figcaption {
+    color: grey;
+}
+
+cite {
+    color: grey;
+}
+
+dl {
+    border: 1px solid red;
+    /*
+    This is a clearfix
+    It reminds the <dl> to wrap around all it's floated children
+    */
+    overflow: hidden;
+}
+
+dt {
+    float: left;
+    clear: left;
+    margin: 0;
+    Padding: 0;
+    width: 8rem;
+}
+
+dd {
+    float: left;
+    margin: 0;
+    Padding: 0;
+}
+
